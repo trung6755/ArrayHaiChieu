@@ -1,0 +1,7 @@
+C:\Users\Astral\source\repos\ArrayHaiChieu\ArrayHaiChieu\bin\Debug\ArrayHaiChieu.exe.config
+C:\Users\Astral\source\repos\ArrayHaiChieu\ArrayHaiChieu\bin\Debug\ArrayHaiChieu.exe
+C:\Users\Astral\source\repos\ArrayHaiChieu\ArrayHaiChieu\bin\Debug\ArrayHaiChieu.pdb
+C:\Users\Astral\source\repos\ArrayHaiChieu\ArrayHaiChieu\obj\Debug\ArrayHaiChieu.csproj.AssemblyReference.cache
+C:\Users\Astral\source\repos\ArrayHaiChieu\ArrayHaiChieu\obj\Debug\ArrayHaiChieu.csproj.CoreCompileInputs.cache
+C:\Users\Astral\source\repos\ArrayHaiChieu\ArrayHaiChieu\obj\Debug\ArrayHaiChieu.exe
+C:\Users\Astral\source\repos\ArrayHaiChieu\ArrayHaiChieu\obj\Debug\ArrayHaiChieu.pdb
